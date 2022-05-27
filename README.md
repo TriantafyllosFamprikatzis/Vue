@@ -1,2 +1,2 @@
 # Vue
- My Vue demo example mini projects
+ My Vue demo examples and mini projects
